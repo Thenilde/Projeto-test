@@ -1,0 +1,23 @@
+
+.drin{
+	color:blue;
+	border:groove red;
+	padding-left: center;
+	column-width:left;
+}
+
+.paragrafo{
+   color: green;
+   border-radius: red;
+   padding:right;
+   background: red;
+}
+
+.home{
+	color: black;
+	border-style: double;
+	border-width: 5px;
+	margin-right: 100px;
+	position: center;
+	
+}
